@@ -2,7 +2,7 @@
 	"courtyard" : {
 		"alignment" : "good",
 		"creatureBackground" : { "120px" : "courtyard/creaturebg120px", "130px" : "courtyard/creaturebg130px" },
-		"name" : "Courtyard",
+		"name" : "Minecraft",
 		"nativeTerrain" : "grass",
 		"town" : {
 			"buildings" : {

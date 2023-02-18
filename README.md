@@ -1,2 +1,2 @@
-# Courtyard
-New faction with baroque-alchemy climax. Made by Trith.
+# Minecraft Town
+Heroes III VCMI mod, initially based on Courtyard
